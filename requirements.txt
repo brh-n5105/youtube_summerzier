@@ -1,0 +1,10 @@
+youtube_transcript_api
+graphviz
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+reportlab
+fpdf
+markdown
+pyperclip
